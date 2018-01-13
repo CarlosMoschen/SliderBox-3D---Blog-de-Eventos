@@ -3,10 +3,10 @@
 	margin: 10px auto;
 	position: relative;
 	overflow: hidden;
-	width: 1200px;
+	width: 1170px;
 	list-style-type: none;
 	padding: 0;
-	margin-left: -10% !important;
+	margin-left: -50% !important;
 }
 
 .sb-slider li {
@@ -24,7 +24,7 @@
 }
 
 .sb-slider img {
-	max-width: 100%;
+	max-width: 1170px;
 	height: 750px;
 	display: block;
 }
