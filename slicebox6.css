@@ -6,6 +6,7 @@
 	width: 1200px;
 	list-style-type: none;
 	padding: 0;
+	margin-left: -10% !important;
 }
 
 .sb-slider li {
@@ -24,7 +25,6 @@
 
 .sb-slider img {
 	max-width: 100%;
-	max-width: 1170px;
 	height: 750px;
 	display: block;
 }
