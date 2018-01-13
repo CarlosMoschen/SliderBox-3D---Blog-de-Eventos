@@ -39,7 +39,7 @@
 }
 
 .nav-arrows a:first-child{
-	left: -180px;
+	left: auto;
 	right: -90px;
 	background-position: top right;
 }
